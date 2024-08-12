@@ -12,22 +12,29 @@ export default function SiteFooter() {
                     <span>Find us via&ensp;</span> <Link href="mailto:extranarrative@foxmail.com" className="underline">email</Link>
                 </div>
             </div>
-            <div className="w-full border-t-2 md:flex justify-center h-20">
-                <div className="w-1/3 md:flex hidden justify-start items-center">
+            <div className="w-full border-t-2 md:flex hidden justify-center h-20">
+                <div className="w-1/3 flex justify-start items-center">
                     <div className="md:text-xl text-gray-500 text-xs">
                         @EXTRA NARRATIVE 2024.
                     </div>
                 </div>
-                <div className="md:w-2/3 w-full flex justify-end items-center md:mt-0 mt-4">
-                    <Link href="/Behance" className="md:text-xl text-base pr-2 underline md:pr-16">Behance</Link>
-                    <Link href="/Behance" className="md:text-xl text-base pr-2 underline md:pr-16">Instagram</Link>
-                    <Link href="/Behance" className="md:text-xl text-base pr-2 underline md:pr-16">gtn9</Link>
-                    <Link href="/Behance" className="md:text-xl text-base underline">Shop{"-->"}</Link>
+                <div className="w-2/3 flex justify-end items-center md:mt-0 mt-4">
+                    <Link href="/Behance" className="text-xl underline pr-16">Behance</Link>
+                    <Link href="/Behance" className="text-xl underline pr-16">Instagram</Link>
+                    <Link href="/Behance" className="text-xl underline pr-16">gtn9</Link>
+                    <Link href="/Behance" className="text-xl underline">Shop{"-->"}</Link>
                 </div>
-                <div className="w-full flex md:hidden justify-end items-center md:pt-0 mt-4">
-                    <div className="md:text-xl text-gray-500 text-xs">
-                        @EXTRA NARRATIVE 2024.
-                    </div>
+            </div>
+            {/* for mobile */}
+            <div className="w-full border-t-2 flex md:hidden justify-center items-center h-20">
+                <div className="text-sm text-gray-500 w-1/5 flex justify-start">
+                    @2024.
+                </div>
+                <div className="w-4/5 flex justify-end items-center">
+                    <Link href="/Behance" className="text-sm underline pr-2">Behance</Link>
+                    <Link href="/Behance" className="text-sm underline pr-2">Instagram</Link>
+                    <Link href="/Behance" className="text-sm underline pr-2">gtn9</Link>
+                    <Link href="/Behance" className="text-sm underline">Shop{"-->"}</Link>
                 </div>
             </div>
         </footer>
