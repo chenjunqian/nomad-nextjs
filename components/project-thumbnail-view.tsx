@@ -2,6 +2,7 @@
 
 import { LottieView } from "@/components/lottie-view";
 import { useState } from "react";
+import { blob } from "stream/consumers";
 
 export type ProjectThumbnailViewProps = {
     routerPath: string,
@@ -23,12 +24,10 @@ export function ProjectThumbnailView(props: ProjectThumbnailViewProps) {
 
     return (
         <div className="w-full hover:cursor-pointer" onMouseEnter={handlerMouseEnter} onMouseLeave={handlerMouseLeave} onClick={() => window.location.href = props.routerPath}>
-            {
-                isHovered ?
-                    <img className="w-full h-auto" src={props.thumbnailPath} alt={props.thumbnailPath} />
-                    :
-                    <LottieView animationData={props.animationData} />
-            }
+            <img className={`w-full h-auto ${isHovered ? `block` : `hidden`}`} src={props.thumbnailPath} alt={props.thumbnailPath} />
+            <div className={`${isHovered ? `hidden` : `block`}`}>
+                <LottieView animationData={props.animationData} />
+            </div>
             <div className="text-lg"></div>
             <div className="text-base"></div>
         </div>
