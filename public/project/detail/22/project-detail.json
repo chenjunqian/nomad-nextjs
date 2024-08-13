@@ -1,21 +1,21 @@
 {
     "images": [
     	
-        "http://39.100.243.102/res/project/detail/22/01.jpg",
-        "http://39.100.243.102/res/project/detail/22/02.jpg",
-        "http://39.100.243.102/res/project/detail/22/03.jpg",
-        "http://39.100.243.102/res/project/detail/22/04.jpg",
-        "http://39.100.243.102/res/project/detail/22/05.jpg",
-        "http://39.100.243.102/res/project/detail/22/06.jpg",
-        "http://39.100.243.102/res/project/detail/22/07.jpg",
-        "http://39.100.243.102/res/project/detail/22/08.jpg",
-        "http://39.100.243.102/res/project/detail/22/09.jpg",
-        "http://39.100.243.102/res/project/detail/22/10.jpg",
-        "http://39.100.243.102/res/project/detail/22/11.jpg",
-        "http://39.100.243.102/res/project/detail/22/12.jpg",
-        "http://39.100.243.102/res/project/detail/22/13.jpg",
-        "http://39.100.243.102/res/project/detail/22/14.jpg",
-        "http://39.100.243.102/res/project/detail/22/15.jpg"
+        "/project/detail/22/01.jpg",
+        "/project/detail/22/02.jpg",
+        "/project/detail/22/03.jpg",
+        "/project/detail/22/04.jpg",
+        "/project/detail/22/05.jpg",
+        "/project/detail/22/06.jpg",
+        "/project/detail/22/07.jpg",
+        "/project/detail/22/08.jpg",
+        "/project/detail/22/09.jpg",
+        "/project/detail/22/10.jpg",
+        "/project/detail/22/11.jpg",
+        "/project/detail/22/12.jpg",
+        "/project/detail/22/13.jpg",
+        "/project/detail/22/14.jpg",
+        "/project/detail/22/15.jpg"
 
       
        

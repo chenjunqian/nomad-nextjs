@@ -1,14 +1,14 @@
 {
     "images": [
-        "http://39.100.243.102/res/project/detail/06/01.jpg",
-        "http://39.100.243.102/res/project/detail/06/02.jpg",
-        "http://39.100.243.102/res/project/detail/06/03.jpg",
-        "http://39.100.243.102/res/project/detail/06/04.jpg",
-        "http://39.100.243.102/res/project/detail/06/05.jpg",
-        "http://39.100.243.102/res/project/detail/06/06.jpg",
-        "http://39.100.243.102/res/project/detail/06/07.jpg",
-        "http://39.100.243.102/res/project/detail/06/08.jpg",
-        "http://39.100.243.102/res/project/detail/06/09.jpg"
+        "/project/detail/06/01.jpg",
+        "/project/detail/06/02.jpg",
+        "/project/detail/06/03.jpg",
+        "/project/detail/06/04.jpg",
+        "/project/detail/06/05.jpg",
+        "/project/detail/06/06.jpg",
+        "/project/detail/06/07.jpg",
+        "/project/detail/06/08.jpg",
+        "/project/detail/06/09.jpg"
     ],
     "leftTopic": "设计大鳄",
     "leftSubTopic": "Accessories & Packaging",

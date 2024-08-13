@@ -1,14 +1,14 @@
 {
     "images": [
-        "http://39.100.243.102/res/project/detail/04/01.jpg",
-        "http://39.100.243.102/res/project/detail/04/02.jpg",
-        "http://39.100.243.102/res/project/detail/04/03.jpg",
-        "http://39.100.243.102/res/project/detail/04/04.jpg",
-        "http://39.100.243.102/res/project/detail/04/05.jpg",
-        "http://39.100.243.102/res/project/detail/04/06.jpg",
-        "http://39.100.243.102/res/project/detail/04/07.jpg",
-        "http://39.100.243.102/res/project/detail/04/08.jpg",
-        "http://39.100.243.102/res/project/detail/04/09.jpg"
+        "/project/detail/04/01.jpg",
+        "/project/detail/04/02.jpg",
+        "/project/detail/04/03.jpg",
+        "/project/detail/04/04.jpg",
+        "/project/detail/04/05.jpg",
+        "/project/detail/04/06.jpg",
+        "/project/detail/04/07.jpg",
+        "/project/detail/04/08.jpg",
+        "/project/detail/04/09.jpg"
     ],
     "leftTopic": "全季茶业",
     "leftSubTopic": "Branding",

@@ -1,14 +1,14 @@
 {
     "images": [
-        "http://39.100.243.102/res/project/detail/13/1.jpg",
-        "http://39.100.243.102/res/project/detail/13/2.jpg",
-        "http://39.100.243.102/res/project/detail/13/3.jpg",
-        "http://39.100.243.102/res/project/detail/13/4.jpg",
-        "http://39.100.243.102/res/project/detail/13/5.jpg",
-        "http://39.100.243.102/res/project/detail/13/6.jpg",
-        "http://39.100.243.102/res/project/detail/13/7.jpg",
-        "http://39.100.243.102/res/project/detail/13/8.jpg",
-        "http://39.100.243.102/res/project/detail/13/9.jpg"
+        "/project/detail/13/1.jpg",
+        "/project/detail/13/2.jpg",
+        "/project/detail/13/3.jpg",
+        "/project/detail/13/4.jpg",
+        "/project/detail/13/5.jpg",
+        "/project/detail/13/6.jpg",
+        "/project/detail/13/7.jpg",
+        "/project/detail/13/8.jpg",
+        "/project/detail/13/9.jpg"
     ],
     "leftTopic": "未来品牌Daily",
     "leftSubTopic": "Branding",

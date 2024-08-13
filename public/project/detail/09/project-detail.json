@@ -1,14 +1,14 @@
 {
     "images": [
-        "http://39.100.243.102/res/project/detail/09/01.jpg",
-        "http://39.100.243.102/res/project/detail/09/02.jpg",
-        "http://39.100.243.102/res/project/detail/09/03.jpg",
-        "http://39.100.243.102/res/project/detail/09/04.jpg",
-        "http://39.100.243.102/res/project/detail/09/05.jpg",
-        "http://39.100.243.102/res/project/detail/09/06.jpg",
-        "http://39.100.243.102/res/project/detail/09/07.jpg",
-        "http://39.100.243.102/res/project/detail/09/08.jpg",
-        "http://39.100.243.102/res/project/detail/09/09.jpg"
+        "/project/detail/09/01.jpg",
+        "/project/detail/09/02.jpg",
+        "/project/detail/09/03.jpg",
+        "/project/detail/09/04.jpg",
+        "/project/detail/09/05.jpg",
+        "/project/detail/09/06.jpg",
+        "/project/detail/09/07.jpg",
+        "/project/detail/09/08.jpg",
+        "/project/detail/09/09.jpg"
     ],
     "leftTopic": "NOMAD DESIGN名片设计",
     "leftSubTopic": "Graphic design",

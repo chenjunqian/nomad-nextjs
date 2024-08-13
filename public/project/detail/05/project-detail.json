@@ -1,13 +1,13 @@
 {
     "images": [
-        "http://39.100.243.102/res/project/detail/05/01.jpg",
-        "http://39.100.243.102/res/project/detail/05/02.jpg",
-        "http://39.100.243.102/res/project/detail/05/03.jpg",
-        "http://39.100.243.102/res/project/detail/05/04.jpg",
-        "http://39.100.243.102/res/project/detail/05/05.jpg",
-        "http://39.100.243.102/res/project/detail/05/06.jpg",
-        "http://39.100.243.102/res/project/detail/05/07.jpg",
-        "http://39.100.243.102/res/project/detail/05/08.jpg"
+        "/project/detail/05/01.jpg",
+        "/project/detail/05/02.jpg",
+        "/project/detail/05/03.jpg",
+        "/project/detail/05/04.jpg",
+        "/project/detail/05/05.jpg",
+        "/project/detail/05/06.jpg",
+        "/project/detail/05/07.jpg",
+        "/project/detail/05/08.jpg"
     ],
     "leftTopic": "出山艺术节",
     "leftSubTopic": "Branding",

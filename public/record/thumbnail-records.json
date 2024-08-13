@@ -2,23 +2,23 @@
     "records": [
         {
             "one": {
-                "data": "http://39.100.243.102/res/record/01/01.json",
-                "date": "http://39.100.243.102/res/record/01/date.jpg",
+                "data": "/record/01/01.json",
+                "date": "/record/01/date.jpg",
                 "text": ""
             },
             "two": {
-                "data": "http://39.100.243.102/res/record/02/02.json",
-                "date": "http://39.100.243.102/res/record/02/date.jpg",
+                "data": "/record/02/02.json",
+                "date": "/record/02/date.jpg",
                 "text": ""
             },
               "three": {
-                "data": "http://39.100.243.102/res/record/03/03.json",
-                "date": "http://39.100.243.102/res/record/03/date.jpg",
+                "data": "/record/03/03.json",
+                "date": "/record/03/date.jpg",
                 "text": ""
             },
              "four": {
-                "data": "http://39.100.243.102/res/record/04/04.json",
-                "date": "http://39.100.243.102/res/record/04/date.jpg",
+                "data": "/record/04/04.json",
+                "date": "/record/04/date.jpg",
                 "text": ""
             }
           
