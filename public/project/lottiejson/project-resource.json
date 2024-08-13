@@ -2,141 +2,141 @@
     "LottieOptions": [
         {
             "routerPath": "project/detail/01",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/01/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/01/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/01/animationData.json"
+            "animationData": "/project/detail/01/animationData.json"
         },
         {
             "routerPath": "project/detail/02",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/02/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/02/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/02/animationData.json"
+            "animationData": "/project/detail/02/animationData.json"
         },
         {
             "routerPath": "project/detail/03",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/03/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/03/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/03/animationData.json"
+            "animationData": "/project/detail/03/animationData.json"
         },
         {
             "routerPath": "project/detail/04",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/04/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/04/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/04/animationData.json"
+            "animationData": "/project/detail/04/animationData.json"
         },
         {
             "routerPath": "project/detail/05",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/05/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/05/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/05/animationData.json"
+            "animationData": "/project/detail/05/animationData.json"
         },
         {
             "routerPath": "project/detail/06",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/06/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/06/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/06/animationData.json"
+            "animationData": "/project/detail/06/animationData.json"
         }, 
         {
             "routerPath": "project/detail/07",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/07/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/07/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/07/animationData.json"
+            "animationData": "/project/detail/07/animationData.json"
         },
         {
             "routerPath": "project/detail/08",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/08/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/08/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/08/animationData.json"
+            "animationData": "/project/detail/08/animationData.json"
         },
         {
             "routerPath": "project/detail/09",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/09/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/09/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/09/animationData.json"
+            "animationData": "/project/detail/09/animationData.json"
         },
         {
             "routerPath": "project/detail/10",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/10/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/10/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/10/animationData.json"
+            "animationData": "/project/detail/10/animationData.json"
         },
         {
             "routerPath": "project/detail/11",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/11/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/11/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/11/animationData.json"
+            "animationData": "/project/detail/11/animationData.json"
         },
         {
             "routerPath": "project/detail/12",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/12/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/12/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/12/animationData.json"
+            "animationData": "/project/detail/12/animationData.json"
         },
         {
             "routerPath": "project/detail/13",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/13/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/13/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/13/animationData.json"
+            "animationData": "/project/detail/13/animationData.json"
         },
         {
             "routerPath": "project/detail/14",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/14/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/14/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/14/animationData.json"
+            "animationData": "/project/detail/14/animationData.json"
         },
         {
             "routerPath": "project/detail/15",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/15/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/15/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/15/animationData.json"
+            "animationData": "/project/detail/15/animationData.json"
         },
         {
             "routerPath": "project/detail/16",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/16/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/16/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/16/animationData.json"
+            "animationData": "/project/detail/16/animationData.json"
         },
         {
             "routerPath": "project/detail/17",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/17/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/17/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/17/animationData.json"
+            "animationData": "/project/detail/17/animationData.json"
         },
         {
             "routerPath": "project/detail/18",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/18/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/18/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/18/animationData.json"
+            "animationData": "/project/detail/18/animationData.json"
         },
         {
             "routerPath": "project/detail/19",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/19/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/19/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/19/animationData.json"
+            "animationData": "/project/detail/19/animationData.json"
         },
         {
             "routerPath": "project/detail/20",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/20/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/20/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/20/animationData.json"
+            "animationData": "/project/detail/20/animationData.json"
         },
         {
             "routerPath": "project/detail/21",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/21/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/21/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/21/animationData.json"
+            "animationData": "/project/detail/21/animationData.json"
         },
         {
             "routerPath": "project/detail/22",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/22/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/22/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/22/animationData.json"
+            "animationData": "/project/detail/22/animationData.json"
         },
         {
             "routerPath": "project/detail/23",
-            "thumbnailPath": "http://39.100.243.102/res/project/detail/23/thumbnail.jpg",
+            "thumbnailPath": "/project/detail/23/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "http://39.100.243.102/res/project/detail/23/animationData.json"
+            "animationData": "/project/detail/23/animationData.json"
         }
         
     ]

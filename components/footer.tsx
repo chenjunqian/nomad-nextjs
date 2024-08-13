@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function SiteFooter() {
     return (
-        <footer className="fixed bottom-0 left-0 right-0 pr-7 pl-7">
+        <footer className="w-full pr-7 pl-7">
             <div className="w-full pb-9 pt-9 md:text-2xl text-sm font-light ">
                 <div className="flex justify-center items-center text-center">
                     We are a small multi-disciplinary design studio in Shanghai.
