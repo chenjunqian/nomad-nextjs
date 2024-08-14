@@ -2,7 +2,6 @@
 
 import { LottieView } from "@/components/lottie-view";
 import { useState } from "react";
-import { blob } from "stream/consumers";
 
 export type ProjectThumbnailViewProps = {
     routerPath: string,
