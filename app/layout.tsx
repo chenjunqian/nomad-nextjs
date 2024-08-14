@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import SiteHeader from "@/components/header";
 import SiteFooter from "@/components/footer";
+import { Analytics } from "@vercel/analytics/react"
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -26,6 +27,7 @@ export default function RootLayout({
 						<SiteFooter />
 					</div>
 				</div>
+				<Analytics />
 			</body>
 		</html>
 	);
