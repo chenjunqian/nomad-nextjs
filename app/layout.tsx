@@ -19,9 +19,13 @@ export default function RootLayout({
 	return (
 		<html lang="en">
 			<body className={inter.className}>
-				<SiteHeader />
-				{children}
-				<SiteFooter />
+				<div className="w-full flex justify-center">
+					<div className="w-full max-w-screen-xl">
+						<SiteHeader />
+						{children}
+						<SiteFooter />
+					</div>
+				</div>
 			</body>
 		</html>
 	);
