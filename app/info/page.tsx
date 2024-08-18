@@ -18,8 +18,7 @@ export default function Page() {
                     <div className="md:w-1/2 w-full flex md:justify-start justify-center mb-14">
                         <div className="w-full grid grid-cols-4 gap-4">
                             <img className="w-20 h-auto items-center" src="/images/tmall.png" alt="tmall" />
-                            <img className="w-20 h-auto" src="/images/dingding.png" alt="dingding" />
-                            <img className="w-20 h-auto" src="/images/taobao.png" alt="taobao" />
+                            <img className="w-20 h-auto" src="/images/dingding.png" alt="dingding" />              <img className="w-20 h-auto" src="/images/taobao.png" alt="taobao" />
                             <img className="w-20 h-auto" src="/images/alibaba.png" alt="alibaba" />
                             <img className="w-20 h-auto" src="/images/flypigg.png" alt="flypigg" />
                             <img className="w-20 h-auto" src="/images/starbucks.png" alt="starbucks" />
@@ -68,7 +67,6 @@ export default function Page() {
                             <p>动态视觉设计</p>
                             <p>商业动画短片</p>
                             <p>打样生产</p>
-                        </div>
                     </div>
                 </div>
 

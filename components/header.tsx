@@ -3,7 +3,6 @@ import Link from "next/link";
 
 export default function SiteHeader() {
     return (
-        // border-bottom-width: 2px
         <header className="sticky top-0 left-0 right-0 z-10 bg-white pl-9 pr-9">
             <div className="w-full flex justify-center bg-white border-b">
                 <div className="w-1/3 flex justify-start items-center mt-9 mb-9">
