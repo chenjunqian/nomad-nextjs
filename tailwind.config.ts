@@ -15,6 +15,9 @@ const config: Config = {
       },
       colors: {
         'extra-red' : '#ff3600'
+      },
+      fontFamily: {
+        'noway': ['var(--font-noway)']
       }
     },
   },
