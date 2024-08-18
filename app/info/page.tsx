@@ -5,7 +5,7 @@ export default function Page() {
         <div className="w-full pr-7 pl-7">
             <div className="mt-28 md:text-xl text-lg ">
                 <div className="w-3/4 text-start">
-                    我们是额外叙事Extra Narrative，一家小型多元创意型设计工作室，2017年成立于上海，为海内外领先客户提供设计服务
+                    我们是额外叙事Extra Narrative，一家小型多元创意型设计工作室，2017年成立于上海，为海内外领先客户提供设计服务。
                 </div>
                 <div className="w-3/4 text-start mt-2">
                     我们专注于平面设计、视觉传达与插画，为企业实现永续的经营而努力。
