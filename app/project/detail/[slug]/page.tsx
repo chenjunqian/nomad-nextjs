@@ -44,13 +44,13 @@ export default async function Page({ params }: { params: { slug: string } }) {
     // get next page info | end
 
     return (
-        <div className="w-full pr-7 pl-7 pt-6">
+        <div className="w-full pr-7 pl-7 pt-9">
             <div className='w-full md:flex'>
                 {/* left topic */}
                 <div className="md:w-2/5 w-full flex md:justify-start justify-center">
                     <div className="md:text-start text-center">
-                        <div className="md:text-2xl text-base">{projectDetail.leftTopic}</div>
-                        <div className="md:text-base text-xs mt-6 text-gray-300">{projectDetail.leftSubTopic}</div>
+                        <div className="md:text-3xl text-base">{projectDetail.leftTopic}</div>
+                        <div className="md:text-sm text-xs mt-9 text-gray-300">{projectDetail.leftSubTopic}</div>
                     </div>
                 </div>
                 <div className='md:w-1/5'></div>
@@ -62,7 +62,7 @@ export default async function Page({ params }: { params: { slug: string } }) {
                 </div>
             </div>
             {/* project detail description */}
-            <div className='w-full md:flex mt-9'>
+            <div className='w-full md:flex mt-16 md:text-sm text-xs'>
                 <div className='md:w-2/5 w-full flex justify-end'>
                     <div className='md:w-full md:text-end w-1/2'>项目详情</div>
                 </div>
@@ -70,22 +70,22 @@ export default async function Page({ params }: { params: { slug: string } }) {
                 <div className='md:w-2/5 w-ful flex justify-end md:mt-0 mt-4'>
                     <div className='md:w-full w-1/2'>
                         <div className='border-b w-full flex justify-start'>
-                            <div className='md:text-sm text-xs w-1/4'>品牌</div>
-                            <div className='md:text-sm text-xs w-3/4'>额外叙事{projectDetail.brand}</div>
+                            <div className='w-1/4'>品牌</div>
+                            <div className='w-3/4'>额外叙事{projectDetail.brand}</div>
                         </div>
                         <div className='border-b w-full flex justify-start mt-2'>
-                            <div className='md:text-sm text-xs w-1/4'>年份</div>
-                            <div className='md:text-sm text-xs w-3/4'>2021{projectDetail.brand}</div>
+                            <div className='w-1/4'>年份</div>
+                            <div className='w-3/4'>2021{projectDetail.brand}</div>
                         </div>
                         <div className='border-b w-full flex justify-start mt-2'>
-                            <div className='md:text-sm text-xs w-1/4'>服务</div>
-                            <div className='md:text-sm text-xs w-3/4'>插画，印刷{projectDetail.brand}</div>
+                            <div className='w-1/4'>服务</div>
+                            <div className='w-3/4'>插画，印刷{projectDetail.brand}</div>
                         </div>
                     </div>
                 </div>
             </div>
             {/* project images */}
-            <div className='grid grid-cols-1 gap-4 mt-20'>
+            <div className='grid grid-cols-1 gap-4 mt-32'>
                 {
                     projectDetail.images?.map((image, index) => {
                         const isVideo = image.endsWith(".mp4")
@@ -101,14 +101,16 @@ export default async function Page({ params }: { params: { slug: string } }) {
                 }
             </div>
             {/* next page component */}
-            <div className='w-full mt-20'>
+            <div className='w-full mt-36'>
                 <div className='w-full flex md:justify-start justify-center'>
-                    <Link className='md:block flex hover:cursor-pointer' href={`/project/detail/${nextProjectNumStr}`}>
-                        <img src="/icons/down-arrow.png" className="md:w-10 w-6 h-auto" />
-                        <div className='text-3xl text-red-500'>Next</div>
+                    <Link className='hover:cursor-pointer' href={`/project/detail/${nextProjectNumStr}`}>
+                        <div className='md:block w-full flex justify-center'>
+                            <img src="/icons/down-arrow.png" className="md:w-10 w-6 h-auto" />
+                        </div>
+                        <div className='text-3xl mt-4 text-extra-red'>Next</div>
                     </Link>
                 </div>
-                <div className='w-full md:flex mt-10'>
+                <div className='w-full md:flex mt-16'>
                     {/* next page left topic */}
                     <div className="md:w-2/5 w-full flex md:justify-start justify-center">
                         <div className="md:text-start text-center">

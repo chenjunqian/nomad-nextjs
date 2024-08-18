@@ -23,7 +23,9 @@ export default function RootLayout({
 				<div className="w-full flex justify-center">
 					<div className="w-full max-w-screen-xl">
 						<SiteHeader />
-						{children}
+						<div className="">
+							{children}
+						</div>
 						<SiteFooter />
 					</div>
 				</div>
