@@ -1,7 +1,6 @@
 'use client'
 
 import { LottieView } from "@/components/lottie-view";
-import { useState } from "react";
 
 export type ProjectThumbnailViewProps = {
     routerPath: string,
@@ -12,21 +11,12 @@ export type ProjectThumbnailViewProps = {
 
 export function ProjectThumbnailView(props: ProjectThumbnailViewProps) {
 
-    const [isHovered, setIsHovered] = useState(false);
-    const handlerMouseEnter = () => {
-        setIsHovered(true);
-    }
-
-    const handlerMouseLeave = () => {
-        setIsHovered(false);
-    }
-
     return (
         <div className="w-full hover:cursor-pointer" onClick={() => window.location.href = props.routerPath}>
-            <div className="w-full" onMouseEnter={handlerMouseEnter} onMouseLeave={handlerMouseLeave}>
-                <img className={`w-full h-auto ${isHovered ? `block` : `hidden`}`} src={props.thumbnailPath} alt={props.thumbnailPath} />
-                <div className={`${isHovered ? `hidden` : `block`}`}>
-                    <LottieView animationData={props.animationData} />
+            <div className="w-full">
+                {/* <img className="w-full hover:block hidden" src={props.thumbnailPath} alt={props.thumbnailPath} /> */}
+                <div className="w-full relative overflow-hidden">
+                    <LottieView className="transition ease-in-out delay-150 hover:scale-125" animationData={props.animationData} />
                 </div>
             </div>
             <div className="md:text-sm text-xs mt-3">ESSE COFFE</div>
