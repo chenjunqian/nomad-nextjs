@@ -3,8 +3,8 @@
 export default function Page() {
     return (
         <div className="w-full pr-7 pl-7">
-            <div className="mt-28 md:text-xl text-lg ">
-                <div className="w-3/4 text-start">
+            <div className="mt-28 md:text-xl text-lg" style={{ fontFamily: 'source-han-sans-simplified-c, sans-serif', fontWeight: '400' }}>
+                <div className="w-3/4 text-start ">
                     我们是额外叙事Extra Narrative，一家小型多元创意型设计工作室，2017年成立于上海，为海内外领先客户提供设计服务。
                 </div>
                 <div className="w-3/4 text-start mt-2">
@@ -35,7 +35,7 @@ export default function Page() {
                 <div className="w-full md:flex mt-6 border-b">
                     <div className="md:w-1/2 w-full md:flex md:text-start text-center md:text-xl text-lg md:mb-0 mb-4">Award</div>
                     <div className="md:w-1/2 w-full flex md:justify-start justify-center mb-14">
-                        <div className="md:w-3/4">
+                        <div className="md:w-3/4" style={{ fontFamily: 'source-han-sans-simplified-c, sans-serif', fontWeight: '400' }}>
                             <p>2022 APD 18 Asia-Pacific Design</p>
                             <p>2022 站酷大设计奖</p>
                             <p>2023 APD 19 Asia-Pacific Design</p>
@@ -45,7 +45,7 @@ export default function Page() {
                 <div className="w-full md:flex mt-6 border-b">
                     <div className="md:w-1/2 w-full md:flex md:text-start text-center md:text-xl text-lg md:mb-0 mb-4">Press</div>
                     <div className="md:w-1/2 w-full flex md:justify-start justify-center mb-14">
-                        <div className="md:w-3/4">
+                        <div className="md:w-3/4" style={{ fontFamily: 'source-han-sans-simplified-c, sans-serif', fontWeight: '400' }}>
                             <p>2020 InspoFindsCollectionII</p>
                             <p>2020 Brand 创意呈现7</p>
                             <p>2021 Brand 创意呈现8</p>
@@ -59,7 +59,7 @@ export default function Page() {
                 <div className="w-full md:flex mt-6">
                     <div className="md:w-1/2 w-full md;flex md:text-start text-center md:text-xl text-lg md:mb-0 mb-4">Service</div>
                     <div className="md:w-1/2 w-full flex md:justify-start justify-center mb-14">
-                        <div className="md:w-3/4">
+                        <div className="md:w-3/4" style={{ fontFamily: 'source-han-sans-simplified-c, sans-serif', fontWeight: '400' }}>
                             <p>品牌全案策划</p>
                             <p>品牌视觉设计</p>
                             <p>包装设计</p>
