@@ -8,7 +8,7 @@ export default function Home() {
     return (
         <div className="w-full flex justify-center">
             <div className="w-full pl-6 pr-6">
-                <div className="text-center mb-9 mt-9 md:text-2xl text-sm font-light">
+                <div className="text-center mt-28 md:text-3xl text-sm font-light mb-14">
                     <div>
                         We build connections
                     </div>
@@ -16,7 +16,7 @@ export default function Home() {
                         among brand, people and planet.
                     </div>
                 </div>
-                <div className="grid md:grid-cols-3 gap-4">
+                <div className="grid md:grid-cols-3 gap-4 gap-y-8 mb-14">
                     {
                         projectLottieList.toReversed().map((item, index) => {
                             return <ProjectThumbnailView key={index} routerPath={item.routerPath} thumbnailPath={item.thumbnailPath} videoPath={item.videoPath} animationData={item.animationData} />
