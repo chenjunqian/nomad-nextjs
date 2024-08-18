@@ -67,9 +67,10 @@ export default function Page() {
                             <p>动态视觉设计</p>
                             <p>商业动画短片</p>
                             <p>打样生产</p>
+                        </div>
                     </div>
-                </div>
 
+                </div>
             </div>
         </div>
     )
