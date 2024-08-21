@@ -19,10 +19,10 @@ export default function SiteFooter() {
                     </div>
                 </div>
                 <div className="w-2/3 flex justify-end items-center md:mt-0 mt-4">
-                    <Link href="/Behance" className="text-xl hover:underline hover:text-extra-red pr-16">Behance</Link>
-                    <Link href="/Behance" className="text-xl hover:underline hover:text-extra-red pr-16">Instagram</Link>
-                    <Link href="/Behance" className="text-xl hover:underline hover:text-extra-red pr-16">gtn9</Link>
-                    <Link href="/Behance" className="text-xl hover:underline hover:text-extra-red ">Shop{"-->"}</Link>
+                    <Link href="https://www.behance.net/extranarrative" target="_blank" className="text-xl hover:underline hover:text-extra-red pr-16">Behance</Link>
+                    <Link href="https://www.instagram.com/extranarrative" target="_blank" className="text-xl hover:underline hover:text-extra-red pr-16">Instagram</Link>
+                    <Link href="https://www.gtn9.com/user_center.aspx?categories=0&subclass=0&id=CF9DC08D07FA9462" target="_blank" className="text-xl hover:underline hover:text-extra-red pr-16">gtn9</Link>
+                    <Link href="/" target="_blank" className="text-xl hover:underline hover:text-extra-red ">Shop{"-->"}</Link>
                 </div>
             </div>
             {/* for mobile */}
@@ -31,10 +31,10 @@ export default function SiteFooter() {
                     @2024.
                 </div>
                 <div className="w-4/5 flex justify-end items-center">
-                    <Link href="/Behance" className="text-sm hover:underline hover:text-extra-red pr-4">Behance</Link>
-                    <Link href="/Behance" className="text-sm hover:underline hover:text-extra-red pr-4">Instagram</Link>
-                    <Link href="/Behance" className="text-sm hover:underline hover:text-extra-red pr-4">gtn9</Link>
-                    <Link href="/Behance" className="text-sm hover:underline hover:text-extra-red">Shop{"-->"}</Link>
+                    <Link href="https://www.behance.net/extranarrative" target="_blank" className="text-sm hover:underline hover:text-extra-red pr-4">Behance</Link>
+                    <Link href="https://www.instagram.com/extranarrative" target="_blank" className="text-sm hover:underline hover:text-extra-red pr-4">Instagram</Link>
+                    <Link href="https://www.gtn9.com/user_center.aspx?categories=0&subclass=0&id=CF9DC08D07FA9462" target="_blank" className="text-sm hover:underline hover:text-extra-red pr-4">gtn9</Link>
+                    <Link href="/" target="_blank" className="text-sm hover:underline hover:text-extra-red">Shop{"-->"}</Link>
                 </div>
             </div>
         </footer>
