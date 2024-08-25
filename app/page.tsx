@@ -8,7 +8,7 @@ export default function Home() {
     return (
         <div className="w-full flex justify-center">
             <div className="w-full pl-6 pr-6">
-                <div className="text-center mt-28 md:text-3xl text-sm font-light mb-14">
+                <div className="text-center mt-28 md:text-3xl text-xl font-light mb-14">
                     <div>
                         We build connections
                     </div>

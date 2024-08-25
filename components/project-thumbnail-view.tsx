@@ -33,8 +33,8 @@ export function ProjectThumbnailView(props: ProjectThumbnailViewProps) {
                     </div>
                 </div>
             </div>
-            <div className={`md:text-sm text-xs mt-3 ${isLottieLoaded ? '' : 'hidden'}`}>{props.title}</div>
-            <div className={`md:text-xs text-gray-300 ${isLottieLoaded ? '' : 'hidden'}`}>{props.subTitle}</div>
+            <div className={`md:text-base text-sm mt-3 ${isLottieLoaded ? '' : 'hidden'}`}>{props.title}</div>
+            <div className={`md:text-sm text-xs text-gray-500 ${isLottieLoaded ? '' : 'hidden'}`}>{props.subTitle}</div>
         </div>
     )
 }
