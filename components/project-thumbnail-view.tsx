@@ -9,6 +9,8 @@ export type ProjectThumbnailViewProps = {
     thumbnailPath: string,
     videoPath?: string,
     animationData: string
+    title?: string
+    subTitle?: string
 }
 
 export function ProjectThumbnailView(props: ProjectThumbnailViewProps) {
@@ -31,8 +33,8 @@ export function ProjectThumbnailView(props: ProjectThumbnailViewProps) {
                     </div>
                 </div>
             </div>
-            <div className={`md:text-sm text-xs mt-3 ${isLottieLoaded ? '' : 'hidden'}`}>ESSE COFFE</div>
-            <div className={`md:text-xs text-gray-300 ${isLottieLoaded ? '' : 'hidden'}`}>strategy, brand identity, package</div>
+            <div className={`md:text-sm text-xs mt-3 ${isLottieLoaded ? '' : 'hidden'}`}>{props.title}</div>
+            <div className={`md:text-xs text-gray-300 ${isLottieLoaded ? '' : 'hidden'}`}>{props.subTitle}</div>
         </div>
     )
 }

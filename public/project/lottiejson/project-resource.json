@@ -4,7 +4,9 @@
             "routerPath": "project/detail/01",
             "thumbnailPath": "/project/detail/01/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "/project/detail/01/animationData.json"
+            "animationData": "/project/detail/01/animationData.json",
+            "title": "",
+            "subTitle": ""
         },
         {
             "routerPath": "project/detail/02",
