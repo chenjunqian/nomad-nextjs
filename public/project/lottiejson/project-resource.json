@@ -4,17 +4,13 @@
             "routerPath": "project/detail/01",
             "thumbnailPath": "/project/detail/01/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "/project/detail/01/animationData.json",
-            "title": "UMORE STUDIO",
-            "subTitle": "branding, visual identity, packaging"
+            "animationData": "/project/detail/01/animationData.json"
         },
         {
             "routerPath": "project/detail/02",
             "thumbnailPath": "/project/detail/02/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "/project/detail/02/animationData.json",
-            "title": "ANZU安足",
-            "subTitle": "branding, visual identity, packaging"
+            "animationData": "/project/detail/02/animationData.json"
         },
         {
             "routerPath": "project/detail/03",
@@ -134,13 +130,17 @@
             "routerPath": "project/detail/22",
             "thumbnailPath": "/project/detail/22/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "/project/detail/22/animationData.json"
+            "animationData": "/project/detail/22/animationData.json",
+            "title": "ANZU安足",
+            "subTitle": "branding, visual identity, packaging"
         },
         {
             "routerPath": "project/detail/23",
             "thumbnailPath": "/project/detail/23/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "/project/detail/23/animationData.json"
+            "animationData": "/project/detail/23/animationData.json",
+             "title": "UMORE STUDIO",
+            "subTitle": "branding, visual identity, packaging"
         }
         
     ]
