@@ -5,7 +5,7 @@ export default function Page() {
         <div className="w-full pr-7 pl-7">
             <div className="mt-28 md:text-xl text-lg" style={{ fontFamily: 'source-han-sans-simplified-c, sans-serif', fontWeight: '400' }}>
                 <div className="w-3/4 text-start ">
-                    我们是额外叙事Extra Narrative，一家小型多元创意型设计工作室，2017年成立于上海，为海内外领先客户提供设计服务。
+                    我们是额外叙事EXTRA NARRATIVE，一家小型多元创意型设计工作室，为海内外领先客户提供设计服务。
                 </div>
                 <div className="w-3/4 text-start mt-2">
                     我们将围绕情感体验与制造惊喜，致力于为客户解决难点，创造经得起时间的考验、具有功能性的设计，透过设计为品牌传达核心价值，与消费者建立连接，完善产品体验。
