@@ -19,7 +19,7 @@ export default function Home() {
                 <div className="grid md:grid-cols-3 gap-4 gap-y-8 mb-14">
                     {
                         projectLottieList.toReversed().map((item, index) => {
-                            return <ProjectThumbnailView key={index} routerPath={item.routerPath} thumbnailPath={item.thumbnailPath} videoPath={item.videoPath} animationData={item.animationData} />
+                            return <ProjectThumbnailView key={index} routerPath={item.routerPath} thumbnailPath={item.thumbnailPath} videoPath={item.videoPath} animationData={item.animationData} title={item.title} subTitle={item.subTitle} />
                         })
                     }               
                 </div>
