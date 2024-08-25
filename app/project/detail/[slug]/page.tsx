@@ -11,8 +11,8 @@ type ProjectDetail = {
     nextLeftSubTopic?: string,
     nextRightTopic?: string
     brand?: string
-    year?: string
-    industry?: string
+    date?: string
+    service?: string
 }
 
 export default async function Page({ params }: { params: { slug: string } }) {
@@ -71,15 +71,15 @@ export default async function Page({ params }: { params: { slug: string } }) {
                     <div className='md:w-full w-1/2'>
                         <div className='border-b w-full flex justify-start'>
                             <div className='w-1/4'>品牌</div>
-                            <div className='w-3/4'>额外叙事{projectDetail.brand}</div>
+                            <div className='w-3/4'>{projectDetail.brand}</div>
                         </div>
                         <div className='border-b w-full flex justify-start mt-2'>
                             <div className='w-1/4'>年份</div>
-                            <div className='w-3/4'>2021{projectDetail.brand}</div>
+                            <div className='w-3/4'>{projectDetail.date}</div>
                         </div>
                         <div className='border-b w-full flex justify-start mt-2'>
                             <div className='w-1/4'>服务</div>
-                            <div className='w-3/4'>插画，印刷{projectDetail.brand}</div>
+                            <div className='w-3/4'>{projectDetail.service}</div>
                         </div>
                     </div>
                 </div>
