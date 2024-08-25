@@ -28,7 +28,7 @@ export function ProjectThumbnailView(props: ProjectThumbnailViewProps) {
         <div className="w-full hover:cursor-pointer" onClick={() => window.location.href = props.routerPath}>
             <div className="w-full">
                 <div className="w-full relative overflow-hidden">
-                    <div className="transition ease-in-out delay-150 hover:scale-125">
+                    <div className="transition ease-in-out duration-700 hover:scale-125">
                         <Player autoplay loop src={props.animationData} style={{ height: '100%', width: '100%' }} onEvent={onEvent} />
                     </div>
                 </div>
