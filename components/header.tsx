@@ -11,7 +11,7 @@ export default function SiteHeader() {
                     <Link href="/contact" className="md:text-xl text-base hover:underline hover:text-extra-red pl-4 md:pl-7">contact</Link>
                 </div>
                 <div className="w-1/3 flex justify-center items-center mt-9 mb-9">
-                    <img className="md:block hidden" src="/icons/title-with-logo.jpg" alt="EXTRA NARRATIVE" />
+                    <img className="md:block hidden w-64" src="/icons/title-with-logo.jpg" alt="EXTRA NARRATIVE" />
                 </div>
                 <div className="w-1/3 flex justify-end items-center mt-9 mb-9">
                     <Link href="mailto:extranarrative@foxmail.com" className="md:text-xl text-base hover:underline hover:text-extra-red">email</Link>
