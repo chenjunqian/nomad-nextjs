@@ -5,14 +5,16 @@
             "thumbnailPath": "/project/detail/01/thumbnail.jpg",
             "videoPath": "",
             "animationData": "/project/detail/01/animationData.json",
-            "title": "",
-            "subTitle": ""
+            "title": "UMORE STUDIO",
+            "subTitle": "branding, visual identity, packaging"
         },
         {
             "routerPath": "project/detail/02",
             "thumbnailPath": "/project/detail/02/thumbnail.jpg",
             "videoPath": "",
-            "animationData": "/project/detail/02/animationData.json"
+            "animationData": "/project/detail/02/animationData.json",
+            "title": "ANZU安足",
+            "subTitle": "branding, visual identity, packaging"
         },
         {
             "routerPath": "project/detail/03",
