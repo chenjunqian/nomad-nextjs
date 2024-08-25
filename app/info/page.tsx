@@ -4,11 +4,13 @@ export default function Page() {
     return (
         <div className="w-full pr-7 pl-7">
             <div className="mt-28 md:text-xl text-lg" style={{ fontFamily: 'source-han-sans-simplified-c, sans-serif', fontWeight: '400' }}>
-                <div className="w-3/4 text-start ">
-                    我们是额外叙事EXTRA NARRATIVE，一家小型多元创意型设计工作室，为海内外领先客户提供设计服务。
-                </div>
-                <div className="w-3/4 text-start mt-2">
-                    我们将围绕情感体验与制造惊喜，致力于为客户解决难点，创造经得起时间的考验、具有功能性的设计，透过设计为品牌传达核心价值，与消费者建立连接，完善产品体验。
+                <div className="w-4/6 text-start leading-loose">
+                    <p>
+                        我们是额外叙事EXTRA NARRATIVE，一家小型多元创意型设计工作室，为海内外领先客户提供设计服务。
+                    </p>
+                    <p>
+                        我们将围绕情感体验与制造惊喜，致力于为客户解决难点，创造经得起时间的考验、具有功能性的设计，透过设计为品牌传达核心价值，与消费者建立连接，完善产品体验。
+                    </p>
                 </div>
             </div>
 
@@ -23,7 +25,7 @@ export default function Page() {
                             <img className="w-20 h-auto" src="/images/flypigg.png" alt="flypigg" />
                             <img className="w-20 h-auto" src="/images/starbucks.png" alt="starbucks" />
                             <img className="w-20 h-auto" src="/images/honeywell.png" alt="honeywell" />
-                            <img className="w-20 h-auto" src="/images/alihealth.png" alt="alihealth" />
+                            <img className="w-20 h-auto pt-4" src="/images/alihealth.jpg" alt="alihealth" />
                             <img className="w-20 h-auto" src="/images/dhl.png" alt="dhl" />
                             <img className="w-20 h-auto" src="/images/bershka.png" alt="bershka" />
                             <img className="w-20 h-auto" src="/images/EF.png" alt="EF" />
