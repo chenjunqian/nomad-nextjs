@@ -15,10 +15,13 @@
         "/project/detail/03/23.jpg",
         "/project/detail/03/24.jpg"
     ],
-    "leftTopic": "即刻咖啡",
-    "leftSubTopic": "Branding",
+    "leftTopic": "NOWER COFFEE即刻咖啡",
+    "leftSubTopic": "branding",
     "rightTopic": "NOWER COFFEE 即刻咖啡是一家文化多元化的年轻咖啡饮品店，以快消式销售为主，为上海生活提供稳定高品质咖啡的同时，带来有趣多元化的体验，如定期的潮流艺术家分享，音乐分享会，咖啡课程等。产品品类为精品咖啡、创意饮品。",
     "nextLeftTopic": "NOMAD SHOWREEL2019",
     "nextLeftSubTopic": "Animation & Motion graphic",
-    "nextRightTopic": "额外叙事Extra Narrative(NOMAD DESIGN)动画集合2019"
+    "nextRightTopic": "额外叙事Extra Narrative(NOMAD DESIGN)动画集合2019",
+    "brand": "NOWER COFFEE即刻咖啡",
+    "date": "2020",
+    "service": "branding, visual identity, beverage"
 }
