@@ -10,10 +10,14 @@
         "/project/detail/09/08.jpg",
         "/project/detail/09/09.jpg"
     ],
-    "leftTopic": "NOMAD DESIGN名片设计",
-    "leftSubTopic": "Graphic design",
-    "rightTopic": "2019年我们设计了一款有趣的名片，运用了印刷的传统工艺，在这互联网时代，想发扬传统纸张行业的一些闪光点，希望能从中感受到为设计注入的感情和人文精神。",
+    "leftTopic": "NOMAD DESIGN STUDIO名片",
+    "leftSubTopic": "printing",
+    "rightTopic": "2019年我们设计了一款有趣的名片，运用了印刷的传统工艺，在互联网时代，再次发扬传统纸张行业的一些闪光点，希望能从中感受到为设计注入的感情和人文精神。",
     "nextLeftTopic": "未来茶事",
-    "nextLeftSubTopic": "Branding",
-    "nextRightTopic": "未来茶事是一家年轻的线上原创茶品牌。推广“0”污染的绿色生活概念，在现代化的城市中，整合大自然资源，改善传统的饮茶习惯，融入传统的茶文化，实现多元化、绿色的品茶新文化。"
+    "nextLeftSubTopic": "branding",
+    "nextRightTopic": "未来茶事是一家年轻的线上原创茶品牌。推广“0”污染的绿色生活概念，在现代化的城市中，整合大自然资源，改善传统的饮茶习惯，融入传统的茶文化，实现多元化、绿色的品茶新文化。",
+    "brand": "NOMAD DESIGN STUDIO",
+    "date": "2019",
+    "service": "illustration, printing, applications"
+    
 }
