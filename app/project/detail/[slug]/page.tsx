@@ -63,11 +63,11 @@ export default async function Page({ params }: { params: { slug: string } }) {
             </div>
             {/* project detail description */}
             <div className='w-full md:flex mt-16 md:text-sm text-xs'>
-                <div className='md:w-2/5 w-full flex justify-end'>
+                <div className='md:w-2/5 w-full flex md:justify-end justify-start'>
                     <div className='md:w-full md:text-end w-1/2'>项目详情</div>
                 </div>
                 <div className='md:w-1/5'></div>
-                <div className='md:w-2/5 w-ful flex justify-end md:mt-0 mt-4'>
+                <div className='md:w-2/5 w-ful flex md:justify-end justify-start md:mt-0 mt-4'>
                     <div className='md:w-full w-1/2'>
                         <div className='border-b w-full flex justify-start'>
                             <div className='w-1/4'>品牌</div>
