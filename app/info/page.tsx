@@ -30,6 +30,10 @@ export default function Page() {
                             <img className="w-20 h-auto" src="/images/bershka.png" alt="bershka" />
                             <img className="w-20 h-auto" src="/images/EF.png" alt="EF" />
                             <img className="w-20 h-auto" src="/images/tengxun.png" alt="tengxun" />
+                            <img className="w-20 h-auto" src="/images/jiale.jpg" alt="jiale" />
+                            <img className="w-20 h-auto" src="/images/unilever.jpg" alt="unilever" />
+                            <img className="w-20 h-auto" src="/images/thegoodstuff.jpg" alt="thegoodstuff" />
+                            <img className="w-20 h-auto" src="/images/xufuji.jpg" alt="xufuji" />
                         </div>
                     </div>
                 </div>
