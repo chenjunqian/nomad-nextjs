@@ -184,6 +184,14 @@
             "animationData": "/project/detail/23/animationData.json",
             "title": "UMORE STUDIO",
             "subTitle": "branding, visual identity, packaging"
+        },
+        {
+            "routerPath": "project/detail/24",
+            "thumbnailPath": "/project/detail/24/thumbnail.jpg",
+            "videoPath": "",
+            "animationData": "/project/detail/24/animationData.json",
+            "title": "好运当垆",
+            "subTitle": "branding, visual identity, applications"
         }
         
     ]
