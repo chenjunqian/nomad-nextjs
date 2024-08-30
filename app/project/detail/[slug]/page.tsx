@@ -56,7 +56,7 @@ export default async function Page({ params }: { params: { slug: string } }) {
                 <div className='md:w-1/5'></div>
                 {/* right description */}
                 <div className="md:w-2/5 w-full flex md:justify-end justify-center md:mt-0 mt-9">
-                    <div className="md:text-start text-center">
+                    <div className="text-start">
                         <div className="md:text-sm text-xs">{projectDetail.rightTopic}</div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@ export default async function Page({ params }: { params: { slug: string } }) {
                     <div className='md:w-1/5'></div>
                     {/* next page right description */}
                     <div className="md:w-2/5 w-full flex md:justify-end justify-center md:mt-0 mt-9">
-                        <div className="md:text-start text-center">
+                        <div className="text-start">
                             <div className="md:text-sm text-xs">{projectDetail.nextRightTopic}</div>
                         </div>
                     </div>
