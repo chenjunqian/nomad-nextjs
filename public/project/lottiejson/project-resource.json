@@ -192,6 +192,14 @@
             "animationData": "/project/detail/24/animationData.json",
             "title": "好运当垆",
             "subTitle": "branding, visual identity, applications"
+        },
+        {
+            "routerPath": "project/detail/25",
+            "thumbnailPath": "/project/detail/25/thumbnail.jpg",
+            "videoPath": "",
+            "animationData": "/project/detail/25/animationData.json",
+            "title": "正儿八经包子家",
+            "subTitle": "logo, visual identity, applications"
         }
         
     ]
