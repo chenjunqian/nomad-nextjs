@@ -208,6 +208,14 @@
             "animationData": "/project/detail/26/animationData.json",
             "title": "LOST ISLAND失落之岛",
             "subTitle": "prints, illustration, sustainable design"
+        },
+        {
+            "routerPath": "project/detail/27",
+            "thumbnailPath": "/project/detail/27/thumbnail.jpg",
+            "videoPath": "",
+            "animationData": "/project/detail/27/animationData.json",
+            "title": "Hello Tiger!虎年年历",
+            "subTitle": "prints, illustration, calendar"
         }
         
     ]
