@@ -200,6 +200,14 @@
             "animationData": "/project/detail/25/animationData.json",
             "title": "正儿八经包子家",
             "subTitle": "logo, visual identity, applications"
+        },
+        {
+            "routerPath": "project/detail/26",
+            "thumbnailPath": "/project/detail/26/thumbnail.jpg",
+            "videoPath": "",
+            "animationData": "/project/detail/26/animationData.json",
+            "title": "LOST ISLAND失落之岛",
+            "subTitle": "prints, illustration, sustainable design"
         }
         
     ]
