@@ -216,6 +216,14 @@
             "animationData": "/project/detail/27/animationData.json",
             "title": "Hello Tiger!虎年年历",
             "subTitle": "prints, illustration, calendar"
+        },
+        {
+            "routerPath": "project/detail/28",
+            "thumbnailPath": "/project/detail/28/thumbnail.jpg",
+            "videoPath": "",
+            "animationData": "/project/detail/28/animationData.json",
+            "title": "DUFOUR",
+            "subTitle": "visual identity, illustration, typography"
         }
         
     ]
