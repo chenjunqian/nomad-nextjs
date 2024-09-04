@@ -4,7 +4,7 @@ export default function Page() {
     return (
         <div className="w-full pr-7 pl-7">
             <div className="w-full mt-28 md:text-xl text-lg" style={{ fontFamily: 'source-han-sans-simplified-c, sans-serif', fontWeight: '400' }}>
-                <div className="md:w-4/6 w-full text-start leading-normal">
+                <div className="md:w-4/6 w-full text-start leading-normal md:leading-loose">
                     <p>
                         我们是额外叙事EXTRA NARRATIVE，一家小型多元创意型设计工作室，为海内外领先客户提供设计服务。
                     </p>
