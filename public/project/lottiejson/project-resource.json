@@ -224,6 +224,14 @@
             "animationData": "/project/detail/28/animationData.json",
             "title": "DUFOUR",
             "subTitle": "visual identity, illustration, typography"
+        },
+        {
+            "routerPath": "project/detail/29",
+            "thumbnailPath": "/project/detail/29/thumbnail.jpg",
+            "videoPath": "",
+            "animationData": "/project/detail/29/animationData.json",
+            "title": "DUFOUR",
+            "subTitle": "mural, illustration, art"
         }
         
     ]
