@@ -4,6 +4,7 @@ import projectJson from "@/public/project/lottiejson/project-resource.json";
 export default function Home() {
 
     const projectLottieList = projectJson.LottieOptions;
+    const reversedProjectLottieList = projectLottieList.slice().reverse();
 
     return (
         <div className="w-full flex justify-center">
@@ -18,7 +19,7 @@ export default function Home() {
                 </div>
                 <div className="grid md:grid-cols-3 gap-4 gap-y-8 mb-14">
                     {
-                        projectLottieList.toReversed().map((item, index) => {
+                        reversedProjectLottieList.map((item, index) => {
                             return <ProjectThumbnailView key={index} routerPath={item.routerPath} thumbnailPath={item.thumbnailPath} videoPath={item.videoPath} animationData={item.animationData} title={item.title} subTitle={item.subTitle} />
                         })
                     }               
